@@ -1,0 +1,14 @@
+Group Number: 5
+Application Name: TaskTide
+
+Member 1 Full Name: Richard Delfin
+Assigned Role: Component Architect
+
+Member 2 Full Name: George Ayran
+Assigned Role: Data & API Engineer
+
+Member 3 Full Name: Mark Vince Vivero
+Assigned Role: State & Router Manager
+
+Member 4 Full Name: Marco Mendoza
+Assigned Role: Interactions & Forms Specialist,
